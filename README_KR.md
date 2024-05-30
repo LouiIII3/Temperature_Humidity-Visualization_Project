@@ -4,10 +4,8 @@
 이 프로젝트는 특정 장소의 에어컨과 관련된 온도 및 습도 데이터를 시각화하는 웹 애플리케이션입니다. 사용자는 날짜별 온도 및 습도의 평균 데이터를 차트로 시각화하여 볼 수 있습니다.
 
 
-## UI 사진
-| 온도 | 습도 | 전체 |
-|-------|-------|-------|
-| ![main](https://github.com/LouiIII3/Temperature_Humidity-Visualization_Project/assets/119919129/075770cb-96f7-4fbc-8e78-db760b2497cf) | ![main](https://github.com/LouiIII3/Temperature_Humidity-Visualization_Project/assets/119919129/f2f28c9f-f927-43a8-bf32-37311c411673) | ![main](https://github.com/LouiIII3/Temperature_Humidity-Visualization_Project/assets/119919129/c2a57a0b-79a8-4dfa-b7a1-dcfa2e366b38) |
+## UI
+온도 ![Temperature](https://github.com/LouiIII3/Temperature_Humidity-Visualization_Project/assets/119919129/075770cb-96f7-4fbc-8e78-db760b2497cf), 습도 ![Humidity](https://github.com/LouiIII3/Temperature_Humidity-Visualization_Project/assets/119919129/f2f28c9f-f927-43a8-bf32-37311c411673), 전체 ![Combined](https://github.com/LouiIII3/Temperature_Humidity-Visualization_Project/assets/119919129/c2a57a0b-79a8-4dfa-b7a1-dcfa2e366b38)
 
 
 
