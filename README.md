@@ -1,5 +1,8 @@
 # Visualization of Temperature and Humidity
 
+## Language Selection
+[English](README_EN.md) | [한국어](README_KR.md)
+
 ## Introduction
 This project is a web application that visualizes temperature and humidity data related to an air conditioner in a specific location. Users can visualize the average temperature and humidity data by date.
 
