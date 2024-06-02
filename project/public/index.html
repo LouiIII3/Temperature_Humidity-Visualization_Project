@@ -19,7 +19,7 @@
       const data = await response.json();
       return data;
     }
-
+    
     async function fetchTemperatureData() {
       const data = await fetchData('/api/temperature');
       createChart(data, 'Temperature', 'rgba(255, 99, 132, 0.2)', 'rgba(255, 99, 132, 1)');
