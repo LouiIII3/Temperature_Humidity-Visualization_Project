@@ -8,8 +8,6 @@
 온도 ![Temperature](https://github.com/LouiIII3/Temperature_Humidity-Visualization_Project/assets/119919129/075770cb-96f7-4fbc-8e78-db760b2497cf), 습도 ![Humidity](https://github.com/LouiIII3/Temperature_Humidity-Visualization_Project/assets/119919129/f2f28c9f-f927-43a8-bf32-37311c411673), 전체 ![Combined](https://github.com/LouiIII3/Temperature_Humidity-Visualization_Project/assets/119919129/c2a57a0b-79a8-4dfa-b7a1-dcfa2e366b38)
 
 
-
-
 ## 기능
 - 날짜별 온도 평균 데이터 시각화
 - 날짜별 습도 평균 데이터 시각화
