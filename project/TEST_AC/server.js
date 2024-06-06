@@ -7,7 +7,9 @@ const port = 3000;
 
 app.use(express.static(path.join(__dirname, '../public')));
 
+//리스트
 const results = [];
+
 
 fs.createReadStream(path.join(__dirname, 'AC/TEST_AC1_2024_1.csv'))
   .pipe(csv())
